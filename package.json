@@ -4,13 +4,13 @@
   "description": "Gulp workflow for front-end development",
   "main": "gulpfile.js",
   "author": {
-    "name": "mohamdio",
-    "url": "https://mohamd.io"
+    "name": "Anthony Proctor",
+    "url": "anthonyproctor.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mohamdio/gulp-workflow"
+    "url": ""
   },
   "devDependencies": {
     "browser-sync": "^2.11.0",
